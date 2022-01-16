@@ -1,0 +1,19 @@
+{
+  "name": "@trzczy/naprobe",
+  "version": "1.0.0",
+  "description": "Template system",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trzczy/naprobe.git"
+  },
+  "author": "trzczy1 <trzczy@gmail.com> (https://google.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trzczy/naprobe/issues"
+  },
+  "homepage": "https://github.com/trzczy/naprobe#readme"
+}
